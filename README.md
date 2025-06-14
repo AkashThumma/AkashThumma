@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Akash 👋
 
-<!--
-**AkashThumma/AkashThumma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech CSE student (2nd Year) passionate about software development and competitive programming.
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- C++ and Java
+- DSA (Data Structures & Algorithms)
+- Git, GitHub, and Dev Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My Goals:
+- Crack 60+ LPA placements in the next 3 years 💪
+- Build strong fundamentals in C++, Java, and Web Dev
+- Earn top-rated certificates from Infosys, Google, and more
+
+🧠 Projects Coming Soon:
+- DSA Practice Repo
+- Console Apps in C++ and Java
+- Web Projects (Full Stack)
+
+📫 How to reach me:
+- Gmail: akashthumma@gmail.com
+⚡ Fun fact: I love tech challenges, chess, and self-learning!
+
