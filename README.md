@@ -8,7 +8,6 @@
 - Git, GitHub, and Dev Tools
 
 📈 My Goals:
-- Crack 60+ LPA placements in the next 3 years 💪
 - Build strong fundamentals in C++, Java, and Web Dev
 - Earn top-rated certificates from Infosys, Google, and more
 
